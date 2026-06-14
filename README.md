@@ -252,10 +252,5 @@ The `data-warehouse/tests/` folder contains validation scripts run against the S
 **Chowdri Furkhan**
 Data Analyst | SQL | Data Visualization | Business Analytics
 
-[LinkedIn](#) • [GitHub](https://github.com/Chowdri-Furkhan07) • [Email](#)
+[LinkedIn](https://www.linkedin.com/in/chowdri-furkhan/) • [GitHub](https://github.com/Chowdri-Furkhan07) • [Email](mrfurkhanfurkhan@gmail.com)
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
