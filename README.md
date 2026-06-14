@@ -164,12 +164,12 @@ This project's analytics layer is designed to answer the kinds of questions a sa
 - How does each product's/category's performance compare year-over-year — above or below its historical average?
 - What is the average order value (AOV) and average monthly spend by customer segment?
 
->Key Findings
+>### Key Findings
 
 
-Bikes dominate revenue at 96.5% of total sales ($28.3M out of $29.4M), while Accessories (2.4%) and Clothing (1.2%) contribute minimally — revealing a highly concentrated product portfolio with clear upsell opportunities in lower-performing categories.
-2013 was the peak sales year, generating $16.3M in revenue across 17,427 customers — a 131% YoY growth over 2011 ($7.1M), driven by significant expansion in customer base and order volume.
-Sales declined sharply in 2014 ($45K, 834 customers), signaling either a mid-year data cutoff or a significant churn event — a critical insight for customer retention strategy.
+- Bikes dominate revenue at 96.5% of total sales ($28.3M out of $29.4M), while Accessories (2.4%) and Clothing (1.2%) contribute minimally — revealing a highly concentrated product portfolio with clear upsell opportunities in lower-performing categories.
+- 2013 was the peak sales year, generating $16.3M in revenue across 17,427 customers — a 131% YoY growth over 2011 ($7.1M), driven by significant expansion in customer base and order volume.
+- Sales declined sharply in 2014 ($45K, 834 customers), signaling either a mid-year data cutoff or a significant churn event — a critical insight for customer retention strategy.
 
 ---
 
