@@ -10,8 +10,8 @@ The repository is organized into two connected components that together tell one
 
 ```
 sql-data-warehouse-analytics/
-├── data-warehouse/    Part 1 — ETL pipeline + Medallion Architecture (Bronze → Silver → Gold)
-└── data-analytics/    Part 2 — Exploratory & business analytics on the Gold layer
+├── data-warehouse/    Part 1 - ETL pipeline + Medallion Architecture (Bronze → Silver → Gold)
+└── data-analytics/    Part 2 - Exploratory & business analytics on the Gold layer
 ```
 
 ---
