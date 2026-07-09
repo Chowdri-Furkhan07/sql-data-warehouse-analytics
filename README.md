@@ -4,7 +4,7 @@
 [![T-SQL](https://img.shields.io/badge/Language-T--SQL-blue?style=flat-square)](https://learn.microsoft.com/en-us/sql/t-sql/language-reference)
 [![Architecture](https://img.shields.io/badge/Architecture-Medallion%20(Bronze%2FSilver%2FGold)-F2A623?style=flat-square)]()
 
-An end-to-end SQL data analytics project covering the full data lifecycle — from raw, multi-source data ingestion to a clean, production-style **data warehouse**, through to an **SQL analytics and business reporting layer** built on top of it.
+An end-to-end SQL data analytics project covering the full data lifecycle - from raw, multi-source data ingestion to a clean, production-style **data warehouse**, through to an **SQL analytics and business reporting layer** built on top of it.
 
 The repository is organized into two connected components that together tell one story: **build the warehouse, then use it to answer business questions.**
 
